@@ -1,58 +1,20 @@
-<div align="center" style="padding: 50px;">
-    <h3>Hi, I'm TheCalculus, and I like coding.</h3>
-    TODO: add stuff.
-    <br>
-    <span style="font-size: 1.5em">Languages and Tools</span><br /><br />
-    <span style="font-style: italic; color: #d3d3d3">I have not yet mastered all of the tools below. I have only briefly
-        touched upon a few of the tools below, such as Blender and Svelte.</span>
-    <hr style="width: 75%">
-    <div style="display: flex; flex-direction: row;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCalculus&langs_count=8"><br />
-        <p align="center"
-            style="padding-top: 30px; width: 50%; aspect-ratio: 1/1; display: grid; grid-template-rows: repeat(4, 1fr); grid-template-columns: repeat(4, 1fr);">
-            <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://download.blender.org/branding/community/blender_community_badge_white.svg"
-                    alt="blender" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                    alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/"
-                target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                    width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-                <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" /> </a> <a
-                href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-                    alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/"
-                target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-                    alt="csharp" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-                    alt="css3" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-                    alt="html5" width="40" height="40" /> </a> <a
-                href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-                    alt="javascript" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql" width="40" height="40" /> </a> <a href="https://nodejs.org" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-                    alt="nodejs" width="40" height="40" /> </a> <a href="https://opencv.org/" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv"
-                    width="40" height="40" /> </a> <a href="https://pandas.pydata.org/" target="_blank"
-                rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-                    alt="pandas" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-                rel="noreferrer"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="40" height="40" /> </a> <a href="https://svelte.dev" target="_blank"
-                rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-                    alt="svelte" width="40" height="40" /> </a> <a href="https://www.tensorflow.org" target="_blank"
-                rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity"
-                    width="40" height="40" /> </a>
-        </p>
-    </div>
-</div>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![p5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
